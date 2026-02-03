@@ -1,5 +1,79 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-hacker
+# Personal Information
+profile:
+  name: "WONG JING SIN"
+  phone: "+65 91556737"
+  email: "e1397817@u.nus.edu"
+  github: "wjingsin"
+  location: "Singapore"
+
+# Education Section
+education:
+  - school: "National University of Singapore"
+    degree: "Bachelor of Computing in Computer Science"
+    gpa: "4.45/5.0"
+    expected_graduation: "Dec 2027"
+    courses: 
+      - "CS1101S Programming Methodology I"
+      - "CS1231S Discrete Mathematics"
+      - "CS2030S Programming Methodology II"
+      - "CS2040S Data Structures & Algorithm"
+      - "CS2100 Computer Organisation"
+      - "CS2103T Software Engineering"
+      - "CS2102 Database Systems"
+      - "CS2109S Introduction to AI and Machine Learning"
+      - "CS2105 Computer Networks"
+  - school: "Nanyang Junior College"
+    degree: "A Levels (88.75 RP)"
+    date: "Dec 2021"
+
+# Technical Skills
+skills:
+  languages: 
+    - "Java"
+    - "Python"
+    - "SQL"
+    - "R"
+    - "JavaScript"
+    - "C"
+  expertise: 
+    - "Software Engineering"
+    - "Machine Learning"
+    - "Data Analytics"
+  software: 
+    - "React Native"
+    - "Expo"
+    - "Git"
+    - "Vector Graphic Design"
+    - "MATLAB"
+
+# Experience & Hackathons
+experience:
+  - title: "Participant"
+    organization: "TikTok TechJam 2025"
+    date: "Sep 2025"
+    description: "Competed in TikTok TechJam Hackathon to create software to detect AI-generated videos."
+  - title: "Participant"
+    organization: "Orbital 2025"
+    date: "May 2025 - Aug 2025"
+    description: "Created a gamified productivity app for university students that combines virtual pet care mechanics with social features and task management."
+  - title: "Participant"
+    organization: "Datathon 2025"
+    date: "Feb 2025"
+    description: "Analysed challenging datasets to tackle real-world problems."
+  - title: "Participant"
+    organization: "Maritime Hackathon 2024"
+    date: "Oct 2024"
+    description: "Analysed large datasets to solve real-world challenges in the maritime industry using AI."
+  - title: "Tutor"
+    organization: "Private Tutor"
+    date: "Jan 2024 - Dec 2024"
+    description: "Conducted Mathematics and Science lessons to prepare students for O Levels and PSLE, leading to 20% improvement in grades."
+
+# Awards & Interests
+awards:
+  - "Edusave Merit Bursary in Junior College"
+interests:
+  - "AI & Machine Learning"
+  - "Software Engineering"
+  - "Computer Graphics and 3D Animation"
+  - "Photography"
